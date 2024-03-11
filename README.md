@@ -7,6 +7,7 @@ Welcome to the Kotlin Beginner's Sample Programs Repository! This repository is 
 Contributions are welcome! If you have beginner-friendly Kotlin sample programs to share, feel free to submit code to botmaker583@gmail.com . Please ensure that your code is clear, concise, and well-commented to aid beginners' understanding.
 
 
+<img width="336" alt="bluej-icon-256-2x" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfORnxhTAcDGn1MHO87zEn9PxsXhewlcp4b18ms755Q&s">
 
 **Links:**
 - [Repository Link](https://github.com/your_username/kotlin-beginners-sample-programs)
