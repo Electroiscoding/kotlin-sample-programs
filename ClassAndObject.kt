@@ -5,5 +5,5 @@ class Person(val name: String, val age: Int) {
 }
 
 fun main() {
-    val person = Person("John", 25)
+    val person = Person("Soham", 15)
     person.introduce()
